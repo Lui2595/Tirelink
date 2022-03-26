@@ -1,2 +1,4 @@
 # Tirelink
-CRUD in Nuxt.JS with Laravel API, for Job Application in Tireclick.com
+CRUD in Nuxt.JS (Vue.JS framework) with Laravel API, for Job Application in Tireclick.com
+
+
